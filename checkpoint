@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/rose/Documents/MazeProject/train_data1.ckpt"
+all_model_checkpoint_paths: "/home/rose/Documents/MazeProject/train_data1.ckpt"
